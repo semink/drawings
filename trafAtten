@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T13:06:04.982Z" agent="5.0 (X11)" etag="_Xuvvg15FPXn1jtNh78s" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T13:14:31.046Z" agent="5.0 (X11)" etag="CyQMqdu4AMPSsxjDVcAg" version="15.8.6" type="github">
   <diagram id="yXMCLElfHrPzMc9iMXE1" name="Page-1">
     <mxGraphModel dx="1673" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qa9Wi-evpev6huGDnjR_-7" value="GNN_r" style="rounded=1;fontSize=20;strokeWidth=3;fillColor=#ffcccc;strokeColor=#36393d;verticalAlign=middle;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+        <mxCell id="qa9Wi-evpev6huGDnjR_-7" value="GNN&lt;br&gt;(backward)" style="rounded=1;fontSize=20;strokeWidth=3;fillColor=#ffcccc;strokeColor=#36393d;verticalAlign=middle;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="345" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qa9Wi-evpev6huGDnjR_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="qa9Wi-evpev6huGDnjR_-9" target="qa9Wi-evpev6huGDnjR_-7">
@@ -49,7 +49,7 @@
         <mxCell id="qa9Wi-evpev6huGDnjR_-9" value="Add &amp;amp; Norm" style="rounded=1;fontSize=20;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;verticalAlign=middle;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="305" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qa9Wi-evpev6huGDnjR_-10" value="GNN" style="rounded=1;fontSize=20;strokeWidth=3;fillColor=#ffcccc;strokeColor=#36393d;verticalAlign=middle;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+        <mxCell id="qa9Wi-evpev6huGDnjR_-10" value="&lt;div&gt;GNN&lt;br&gt;&lt;/div&gt;(forward)" style="rounded=1;fontSize=20;strokeWidth=3;fillColor=#ffcccc;strokeColor=#36393d;verticalAlign=middle;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="485" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qa9Wi-evpev6huGDnjR_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="qa9Wi-evpev6huGDnjR_-12" target="qa9Wi-evpev6huGDnjR_-10">
