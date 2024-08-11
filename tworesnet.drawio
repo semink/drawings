@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-11T02:13:13.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="k4IFC8wPg_V9_J1TaWU_" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-11T02:28:56.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="Ryh0E3XXeLrMODp4NBt3" version="24.7.3" type="github">
   <diagram id="uNBOLuVhgGo2MyKxPD7P" name="Page-1">
     <mxGraphModel dx="1026" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
@@ -629,7 +629,7 @@
         <mxCell id="yNHQedy5PqjwXHAz90J7-144" value="Output&lt;br&gt;sequence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="618" y="414.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yNHQedy5PqjwXHAz90J7-145" value="Low-resolution block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="yNHQedy5PqjwXHAz90J7-145" value="Low-resolution network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="232" y="580" width="628" height="104" as="geometry" />
         </mxCell>
         <mxCell id="yNHQedy5PqjwXHAz90J7-146" value="" style="endArrow=block;html=1;rounded=1;strokeWidth=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" target="yNHQedy5PqjwXHAz90J7-158">
